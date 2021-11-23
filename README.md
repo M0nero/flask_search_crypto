@@ -11,21 +11,19 @@ Application that allows to login, check the token, and search news about cryptoc
 
 
 
-To do this project following libraries required: ```Flask```, ```Flask SQLAlchemy```, ```beautifulsoup```, ```Psycopg2```. Below shown the installation
+To do this project following libraries required: ```Flask```, ```Flask SQLAlchemy```, ```beautifulsoup```, ```Psycopg2```, ```jwt```, ```lxml```, ```tensorflow```, ```torch```. Below shown the installation
 
 
 
 ```
 
 pip install beautifulsoup4
-
 pip install Flask
-
 pip install Flask-SQLAlchemy
-
 pip install requests
-
 pip install psycopg2
-
-
+pip install jwt
+pip install lxml
+pip install tensorflow
+pip install torch
 ```
