@@ -54,7 +54,7 @@ app.config['SECRET_KEY'] = 'thisismyflasksecretkey
 | 2  | Elmira   |   saku   | some_token |
 | 3  | Van      | Darkholme| some_token |
 
-##Examples
+## Examples
 
 Welcome page
 ![alt text](https://user-images.githubusercontent.com/74233809/143092084-e8753b13-fdcf-4dd1-b626-b41f8cf5e222.png)
