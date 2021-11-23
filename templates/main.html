@@ -1,0 +1,24 @@
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Contacts</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Trispace:wght@500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/mainstyle.css') }}">
+</head>
+
+<body class="sbody">
+
+  <div class="card">
+    <p class="contacts">{{ main_title }}</p>
+    <p class="desc"><h1>{{ message }}</h1><br>
+      <a href="{{ button_link }}" class="goback">{{ button }}</a>
+    </p>
+
+  </div>
+
+</body>
+<style>h1 {color: {{message_color}};}</style>
+</html>

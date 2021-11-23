@@ -1,0 +1,41 @@
+.sbody {
+  background-color: #cdbce7;
+  align-items: center;
+}
+
+.goback {
+  color: #d1cdcd;
+  font-size: 70px;
+}
+
+.goback:hover {
+  text-decoration: none;
+  color: #a6a1a1;
+}
+
+.desc {
+  color: #d1cdcd;
+  text-shadow: 2px 2px #000000;
+  font-size: 25px;
+  font-family: "Trispace", sans-serif;
+}
+
+.contacts {
+  color: #d1cdcd;
+  text-shadow: 2px 2px #000000;
+  font-size: 35px;
+  font-family: "Trispace", sans-serif;
+}
+
+.card {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #1a1a1d;
+  height: 350px;
+  width: 50%;
+  border-radius: 25px;
+  box-shadow: 40px 20px 20px #4a4a59;
+  text-align: center;
+}
