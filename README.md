@@ -53,3 +53,23 @@ app.config['SECRET_KEY'] = 'thisismyflasksecretkey
 | 1  | Damir    |  lolkek  | some_token |
 | 2  | Elmira   |   saku   | some_token |
 | 3  | Van      | Darkholme| some_token |
+
+##Examples
+
+Welcome page
+![alt text](https://user-images.githubusercontent.com/74233809/143092084-e8753b13-fdcf-4dd1-b626-b41f8cf5e222.png)
+
+/login - at first user asked to enter the login and a password
+![alt text](https://user-images.githubusercontent.com/74233809/143091973-b073e2d5-6392-444d-b4cc-5c09fe1ed621.png)
+
+Welcome page after user has entered
+![alt text](https://user-images.githubusercontent.com/74233809/143091986-a2ea7b71-43b2-4ff2-9113-949f6ca4d0dd.png)
+
+/Provided token is correct
+![alt text](https://user-images.githubusercontent.com/74233809/143091984-ee53aae7-1a79-46cd-93f7-e4ffa4ff8c94.png)
+
+![alt text]
+
+![alt text]
+
+![alt text]
