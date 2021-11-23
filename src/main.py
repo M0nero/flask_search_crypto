@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, session
+from flask import Flask, render_template, request
 import jwt
 from flask_sqlalchemy import SQLAlchemy
 from scrapper import Scrapper
