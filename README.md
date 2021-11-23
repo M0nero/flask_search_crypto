@@ -68,8 +68,17 @@ Welcome page after user has entered
 /Provided token is correct
 ![alt text](https://user-images.githubusercontent.com/74233809/143091984-ee53aae7-1a79-46cd-93f7-e4ffa4ff8c94.png)
 
-![alt text]
+/Provided token is incorrect
+![alt text](https://user-images.githubusercontent.com/74233809/143091975-2c86cef4-86e4-4bff-be12-2847ab1374c2.png)
 
-![alt text]
+/Token was not provided
+![alt text](https://user-images.githubusercontent.com/74233809/143091978-277851de-ac9a-4fdd-820d-542270777fca.png)
 
-![alt text]
+/search page
+![alt text](https://user-images.githubusercontent.com/74233809/143091983-a8efb6ac-adc1-4f6e-a1bc-a3e399c84c3c.png)
+
+/when user entered the name of coin and clicked search
+![alt text](https://user-images.githubusercontent.com/74233809/143091982-b6971fe2-79c9-46c0-8ff1-2c40da931c97.png)
+
+/when user enters unknown coin
+![alt text](https://user-images.githubusercontent.com/74233809/143091980-bfdc08b6-0312-41cd-9d81-7c1ac7b86d98.png)
