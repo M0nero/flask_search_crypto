@@ -25,7 +25,7 @@ pip install jwt
 pip install lxml
 pip install tensorflow
 ```
-For best performance, we recommend using Nvidia discrete graphics with following instructions:
+For best performance, we recommend using NVIDIA discrete graphics with following instructions:
 > 1.  Install [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads)(first of all by joining the [NVIDIA Developer Program](https://developer.nvidia.com/developer-program))
 > 2.  Generate the command in the pip configurator on the [PyTorch](https://pytorch.org/get-started/locally/) official website with the CUDA option 
 
