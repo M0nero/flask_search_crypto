@@ -24,7 +24,6 @@ pip install psycopg2
 pip install jwt
 pip install lxml
 pip install tensorflow
-pip install torch
 ```
 For best performance, we recommend using Nvidia discrete graphics with following instructions:
 > 1.  Install [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads)(first of all by joining the [NVIDIA Developer Program](https://developer.nvidia.com/developer-program))
