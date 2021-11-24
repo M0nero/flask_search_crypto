@@ -27,7 +27,7 @@ pip install tensorflow
 ```
 For best performance, we recommend using Nvidia discrete graphics with following instructions:
 > 1.  Install [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads)(first of all by joining the [NVIDIA Developer Program](https://developer.nvidia.com/developer-program))
-> 2.  Install pytorch with cuda drivers on the [official site](https://pytorch.org/get-started/locally/) in pip configurator 
+> 2.  Generate the command in the pip configurator on the [PyTorch](https://pytorch.org/get-started/locally/) official website with the CUDA option 
 
 ![alt text](https://user-images.githubusercontent.com/70347351/143207765-ee4e2779-7bcf-4233-bb70-335cf7f66697.png)
 # Install script 
