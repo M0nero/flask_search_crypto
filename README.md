@@ -26,7 +26,7 @@ pip install lxml
 pip install tensorflow
 pip install torch
 ```
-For best performance, install pytorch with cuda drivers on the official site in pip configurator 
+For best performance, install pytorch with cuda drivers on the [official site](https://pytorch.org/get-started/locally/) in pip configurator 
 ![alt text](https://user-images.githubusercontent.com/70347351/143207765-ee4e2779-7bcf-4233-bb70-335cf7f66697.png)
 # Install script 
 
